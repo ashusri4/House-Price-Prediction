@@ -34,7 +34,7 @@
 
 # Projet Additional Requirements
 
-#### This submission also has a subjective questions answers pdf which was asked in the assignment thus, the ipynb file is modified as per the needs og the assignment  
+#### This submission also has a subjective questions answers pdf which was asked in the assignment thus, the ipynb file is modified as per the needs of the assignment  
 
 
 
